@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebViewLauncher</string>
+    <string name="default_url">https://example.com/</string>
+</resources>
+
